@@ -136,6 +136,13 @@ Legend on the next page.
 1. `git pull origin branch`
 
 ---
+
+### git workflow tutorial
+
+[![git tutorial](//img.youtube.com/vi/USjZcfj8yxE/0.jpg)](//www.youtube.com/watch?v=USjZcfj8yxE "git tutorial")
+
+---
+
 ### More Commands Learned
 
 | Command | Description | Remarks |
